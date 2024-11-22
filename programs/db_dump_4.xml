@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <IP>123.123.123.123</IP>
+    <PICS>wpaper.gif</PICS>
+    <IP_WITH_PORT>123.123.123.123:8080</IP_WITH_PORT>
+  </row>
+  <row>
+    <index>1</index>
+    <IP>123.123.123.123</IP>
+    <PICS>abc.jpg</PICS>
+    <IP_WITH_PORT>123.123.123.123:8080</IP_WITH_PORT>
+  </row>
+  <row>
+    <index>2</index>
+    <IP>123.123.123.123</IP>
+    <PICS>5star2000.gif</PICS>
+    <IP_WITH_PORT>123.123.123.123:8080</IP_WITH_PORT>
+  </row>
+  <row>
+    <index>3</index>
+    <IP>123.123.123.123</IP>
+    <PICS>5star.gif</PICS>
+    <IP_WITH_PORT>123.123.123.123:8080</IP_WITH_PORT>
+  </row>
+  <row>
+    <index>4</index>
+    <IP>123.123.123.123</IP>
+    <PICS>a2hlogo.jpg</PICS>
+    <IP_WITH_PORT>123.123.123.123:8080</IP_WITH_PORT>
+  </row>
+</data>

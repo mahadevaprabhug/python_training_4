@@ -1,0 +1,11 @@
+INFO : 12_program_on_logging.py : This is info
+DEBUG : 12_program_on_logging.py : This is debug
+WARNING : 12_program_on_logging.py : This is warning
+ERROR : 12_program_on_logging.py : This is error
+CRITICAL : 12_program_on_logging.py : This is critical
+INFO : 12_program_on_logging.py : Opening file..
+INFO : 12_program_on_logging.py : Opening file Success
+INFO : 12_program_on_logging.py : Writing to file
+INFO : 12_program_on_logging.py : Writing to file success
+INFO : 12_program_on_logging.py : Closing file handle
+INFO : 12_program_on_logging.py : Closing file handle Done
